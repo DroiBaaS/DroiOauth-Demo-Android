@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DroiOauthDemo</string>
+    <string name="login_first_hint">获取帐号信息前请先登录</string>
+    <string name="setting_scope_title">设置权限提醒</string>
+    <string name="setting_scope_message">没有设置登录权限, 可能造成用户信息获取失败</string>
+    <string name="setting_scope_back">返回设置</string>
+    <string name="setting_scope_ignore">继续登陆</string>
+
+</resources>
